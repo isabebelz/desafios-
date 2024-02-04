@@ -1,0 +1,15 @@
+C:\Desafios\BackEnd - Isabel\Desafio1\bin\Debug\net8.0\BackEnd-Isabel.exe
+C:\Desafios\BackEnd - Isabel\Desafio1\bin\Debug\net8.0\BackEnd-Isabel.deps.json
+C:\Desafios\BackEnd - Isabel\Desafio1\bin\Debug\net8.0\BackEnd-Isabel.runtimeconfig.json
+C:\Desafios\BackEnd - Isabel\Desafio1\bin\Debug\net8.0\BackEnd-Isabel.dll
+C:\Desafios\BackEnd - Isabel\Desafio1\bin\Debug\net8.0\BackEnd-Isabel.pdb
+C:\Desafios\BackEnd - Isabel\Desafio1\obj\Debug\net8.0\BackEnd-Isabel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desafios\BackEnd - Isabel\Desafio1\obj\Debug\net8.0\BackEnd-Isabel.AssemblyInfoInputs.cache
+C:\Desafios\BackEnd - Isabel\Desafio1\obj\Debug\net8.0\BackEnd-Isabel.AssemblyInfo.cs
+C:\Desafios\BackEnd - Isabel\Desafio1\obj\Debug\net8.0\BackEnd-Isabel.csproj.CoreCompileInputs.cache
+C:\Desafios\BackEnd - Isabel\Desafio1\obj\Debug\net8.0\BackEnd-Isabel.sourcelink.json
+C:\Desafios\BackEnd - Isabel\Desafio1\obj\Debug\net8.0\BackEnd-Isabel.dll
+C:\Desafios\BackEnd - Isabel\Desafio1\obj\Debug\net8.0\refint\BackEnd-Isabel.dll
+C:\Desafios\BackEnd - Isabel\Desafio1\obj\Debug\net8.0\BackEnd-Isabel.pdb
+C:\Desafios\BackEnd - Isabel\Desafio1\obj\Debug\net8.0\BackEnd-Isabel.genruntimeconfig.cache
+C:\Desafios\BackEnd - Isabel\Desafio1\obj\Debug\net8.0\ref\BackEnd-Isabel.dll
